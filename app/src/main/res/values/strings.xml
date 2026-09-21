@@ -1,3 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Atividade1</string>
+    <string name="app_name">FlagQuiz</string>
+    <string name="slogan">Adivinhe o país pela bandeira</string>
+
+    <string name="hint_nome">Digite seu nome</string>
+    <string name="comecar">Começar</string>
+    <string name="informe_nome">Informe seu nome para começar</string>
+
+    <string name="pergunta_titulo">Que país é este?</string>
+    <string name="hint_resposta">Qual é o país?</string>
+    <string name="responder">Responder</string>
+    <string name="proxima">Próxima</string>
+    <string name="ver_placar">Ver placar</string>
+    <string name="digite_resposta">Digite uma resposta</string>
+    <string name="descricao_bandeira">Bandeira do país da pergunta atual</string>
+    <string name="contador_formato">%1$d de %2$d</string>
+    <string name="correto">Correto!</string>
+    <string name="incorreto">Incorreto! Era %1$s</string>
+
+    <string name="placar_nome">Parabéns, %1$s!</string>
+    <string name="placar_pontos">%1$d pontos</string>
+    <string name="placar_detalhe">%1$d de %2$d perguntas corretas</string>
+    <string name="sua_resposta">Você digitou: %1$s</string>
+    <string name="status_acertou">+20</string>
+    <string name="status_errou">0</string>
+    <string name="jogar_novamente">Jogar novamente</string>
 </resources>
